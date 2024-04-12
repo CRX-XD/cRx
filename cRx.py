@@ -1,1 +1,1 @@
-import crxx.cpython-311
+import crxx
